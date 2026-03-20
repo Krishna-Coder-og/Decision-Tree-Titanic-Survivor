@@ -86,8 +86,8 @@ DecisionTreeClassifier(max_depth=4, min_samples_split=10, min_samples_leaf=3)
 ---
 
 ## Results
-- Baseline Accuracy: Add your value  
-- Pre-Pruned Accuracy: Add your value  
+- Baseline Accuracy: 75.41%  
+- Pre-Pruned Accuracy: 81.56%  
 
 ---
 
