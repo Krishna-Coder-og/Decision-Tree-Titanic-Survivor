@@ -94,7 +94,7 @@ DecisionTreeClassifier(max_depth=4, min_samples_split=10, min_samples_leaf=3)
 ## How to Run
 
 ### Clone Repository
-git clone https://github.com/your-username/titanic-decision-tree.git  
+git clone https://github.com/Krishna-Coder-og/Decision-Tree-Titanic-Survivor  
 cd titanic-decision-tree  
 
 ### Install Dependencies
